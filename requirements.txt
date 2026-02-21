@@ -1,4 +1,2 @@
 streamlit
-faster-whisper
-torch
-python-multipart
+requests
